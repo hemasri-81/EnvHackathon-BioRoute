@@ -4,7 +4,6 @@
 
 Transforming agricultural residue into a predictable, sustainable, and intelligent biomass supply chain.
 
-![BioRoute Banner](https://via.placeholder.com/1200x400?text=BioRoute)
 
 ---
 
